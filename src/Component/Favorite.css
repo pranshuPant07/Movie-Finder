@@ -1,0 +1,25 @@
+
+.main12{
+    width: 100%;
+    min-height: 100px;
+    overflow: hidden;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 5vw 5vw;
+    gap: 4vw;
+    background: rgba(0, 0, 0, 1);
+}
+.notFound{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.notFound h5{
+    font-size: 04vw;
+    color: bisque;
+}

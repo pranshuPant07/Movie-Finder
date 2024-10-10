@@ -1,0 +1,47 @@
+.main1{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5vw 5vw;
+    flex-wrap: wrap;
+    gap: 4vw;
+}
+.subclass1{
+    width: 20%;
+    height: 60%;
+    border-radius: 15px;
+    border: 1px solid black;
+    background-color: whitesmoke;
+}
+.sub{
+    width: 100%;
+    height: 100%;
+}
+.poster{
+    width: 100%;
+    height: 75%;
+    border-bottom: 2px solid rgb(255, 0, 0);
+}
+.poster img{
+    width: 100%;
+    height: 100%;
+}
+.data{
+    width: 100%;
+    height: 25%;
+    text-align: center;
+}
+.data h5{
+    font-size: 1vw;
+}
+.data button{
+    border: none;
+    background-color: red;
+    color: white;
+    width: 5vw;
+    border-radius: 2vw;
+    height: 4vh;
+}
